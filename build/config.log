@@ -1,0 +1,18 @@
+# project  configured on Sat Jan 17 22:39:21 2015 by
+# waf 1.7.11 (abi 98, python 20706f0 on darwin)
+# using /Users/akilesh/pebble-dev/PebbleSDK-2.8.1/Pebble/waf configure build
+#
+----------------------------------------
+Setting top to
+/Users/akilesh/Google Drive/Developer/XCode/HiBar/hibar-pebble
+----------------------------------------
+Setting out to
+/Users/akilesh/Google Drive/Developer/XCode/HiBar/hibar-pebble/build
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'

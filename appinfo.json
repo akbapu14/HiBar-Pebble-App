@@ -1,0 +1,17 @@
+{
+  "uuid": "a0dd135f-96b0-4b0e-9afa-608e3d2e9c73",
+  "shortName": "HiBar",
+  "longName": "HiBar",
+  "companyName": "HiBarFitness",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
